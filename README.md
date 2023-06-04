@@ -46,4 +46,4 @@ https://github.com/CristinaJoelle/logo_generator
 
 ### Walkthrough Video
 
-[Click to access a walkthrough video of the logo generator.](/media/Logo%20Maker.webm)
+[Click to access a walkthrough video of the logo generator.](/media/Logo%20Generator.webm)
